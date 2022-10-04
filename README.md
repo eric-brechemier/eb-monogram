@@ -3,6 +3,8 @@
 I designed this monogram in September 2022 for use as a profile picture,
 in online pages and in print documents.
 
+## Preview
+
 <img
   alt="Monogram of Eric Bréchemier"
   src="eb-monogram-500x-500px.jpg"
