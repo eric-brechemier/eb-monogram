@@ -3,6 +3,8 @@
 I designed this monogram in September 2022 for use as a profile picture,
 in online pages and in print documents.
 
+![Monogram of Eric Bréchemier, 500x500px](eb-monogram-500x-500px.jpg)
+
 ## Rationale
 
 The letters E and B are drawn in a calligraphic hand which I designed
