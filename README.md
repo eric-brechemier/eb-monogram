@@ -3,7 +3,10 @@
 I designed this monogram in September 2022 for use as a profile picture,
 in online pages and in print documents.
 
-![Monogram of Eric Bréchemier, 500x500px](eb-monogram-500x-500px.jpg)
+<img
+  alt="Monogram of Eric Bréchemier, 500x500px"
+  src="eb-monogram-500x-500px.jpg" width="500"
+/>
 
 ## Rationale
 
