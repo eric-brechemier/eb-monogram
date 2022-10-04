@@ -22,4 +22,4 @@ hand were inspired by the typeface [Whakarare][] designed by Māori designer
 [CC-BY][] [Eric Bréchemier][ATTRIBUTION]
 
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/
-[ATTRIBUTION]: https://github.com/eric-brechemier/business-card
+[ATTRIBUTION]: https://github.com/eric-brechemier/eb-monogram
