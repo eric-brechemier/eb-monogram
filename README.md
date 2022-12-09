@@ -7,7 +7,7 @@ in online pages and in print documents.
 
 <img
   alt="Monogram of Eric Bréchemier"
-  src="eb-monogram-500x-500px.jpg"
+  src="eb-monogram-500x-500px.png"
   style="border-radius: 50%;"
   width="250"
 />
